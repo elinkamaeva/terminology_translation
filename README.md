@@ -13,7 +13,7 @@ Machine translation has advanced significantly, but accurately translating domai
 - Focused Domains: Comparative analysis conducted in the fields of linguistics and physics to evaluate the impact of different prompting strategies.
 
 ### Data Access
-The databases created during this project are available in the following Google Drive folder: [Google Drive Folder](https://drive.google.com/drive/folders/1DTp3FRMgDZisBo7ulZa1jhLpqiyAWwms?usp=sharing
+The databases created during this project are available in the following Google Drive folder: [Google Drive Folder](https://drive.google.com/drive/folders/1DTp3FRMgDZisBo7ulZa1jhLpqiyAWwms?usp=sharing).
 
 ### Results
 The results of this study indicate that term translation prompts significantly improve the accuracy and contextual relevance of translations. Detailed evaluation using BLEU, ROUGE, CHRF, and COMET metrics supports this finding.
