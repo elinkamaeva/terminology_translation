@@ -18,8 +18,10 @@ The databases created during this project are available in the following Google 
 ### Results
 The results of this study indicate that term translation prompts significantly improve the accuracy and contextual relevance of translations. Detailed evaluation using BLEU, ROUGE, CHRF, and COMET metrics supports this finding.
 
-#### Database Statistics
-| Database             | BLEU Mean  ROUGE Mean | CHRF Mean | COMET Mean |
+### Results
+
+#### Database Statistics (Mean Values)
+| Database             | BLEU Mean | ROUGE Mean | CHRF Mean | COMET Mean |
 |----------------------|-----------|------------|-----------|------------|
 | ling_ParaCrawl.db    | 0.16      | 0.35       | 50.49     | 0.78       |
 | phys_ParaCrawl.db    | 0.16      | 0.41       | 52.42     | 0.79       |
